@@ -3,4 +3,4 @@ project(CyberPatriotUtility)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CyberPatriotUtility main.cpp)
+add_executable(CyberPatriotUtility src/main.cpp)
